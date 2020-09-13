@@ -1,11 +1,9 @@
-# Machine Learning Topics
+# Machine Learning Topics I have an idea of
 ```
 Clustering
-Dimensionality Redcution
 Random Forests
-Ensmeble Leaning Methods
-Support Vector Machines
-Boosting ALgorithms
 Regression
 Decision Trees
 
+```
+## However, I have also done some mini-projects using Open CV, and I'll be super excited to work on any related topic
